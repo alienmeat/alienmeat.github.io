@@ -1,2 +1,2 @@
-# vi66r.github.io
-# jekyll-duet
+# alienmeat.github.io
+# jekyll-duet theme test
