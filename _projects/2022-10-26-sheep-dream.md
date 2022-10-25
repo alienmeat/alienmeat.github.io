@@ -20,7 +20,10 @@ featured_image: '/images/sheep/eye.jpg'
     <img src="/images/sheep/leg.jpg">
     <img src="/images/sheep/lay.jpg">
     <img src="/images/sheep/herd.jpg">
- 
+    <img src="/images/sheep/gut.jpg">
+    <img src="/images/sheep/eye.jpg">
+    <img src="/images/sheep/dish.jpg">
+    <img src="/images/sheep/dinner.jpg">
     
 
 
