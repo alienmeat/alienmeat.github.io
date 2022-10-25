@@ -24,4 +24,5 @@ featured_image: '/images/sheep/eye.jpg'
     <img src="/images/sheep/eye.jpg">
     <img src="/images/sheep/dish.jpg">
     <img src="/images/sheep/dinner.jpg">
+
 </div>
