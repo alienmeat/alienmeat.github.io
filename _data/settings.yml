@@ -33,8 +33,8 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  # facebook_url: ''
-  # twitter_url: ''
+  facebook_url: ''
+  twitter_url: ''
   instagram_url: 'https://www.instagram.com/alienmeat1/'
   snapchat_url: ''
   youtube_url: ''
