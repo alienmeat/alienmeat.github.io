@@ -14,7 +14,7 @@ featured_image: '/images/arcylic/octo.JPG'
 
 <div class="gallery" data-columns="3">
 	<img src="/images/arcylic/leaf.JPG">
-    <img src="/images/arcylic/bird.JPG">
+    <img src="/images/arcylic/bird.PNG">
     <img src="/images/arcylic/butter.JPG">
     <img src="/images/arcylic/conch.JPG">
     <img src="/images/arcylic/octo.JPG">
