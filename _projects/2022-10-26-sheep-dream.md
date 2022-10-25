@@ -1,7 +1,7 @@
 ---
 title: 'Dream of Lamb'
 subtitle: 'Created in 2021'
-date: 2022-10-26 00:00:00
+date: 2022-10-25 00:00:00
 description: schoolwork
 featured_image: '/images/sheep/eye.jpg'
 ---
