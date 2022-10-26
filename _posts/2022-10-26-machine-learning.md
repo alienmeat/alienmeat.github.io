@@ -5,6 +5,6 @@ description:
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
-#  Week 1 : Introduction to Machine learning
+##  Week 1 : Introduction to Machine learning
 
 
