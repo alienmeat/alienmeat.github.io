@@ -14,7 +14,7 @@ menu_settings:
       url: '/blog/'
     #添加新的板块#
     - title: 'NoteBook'
-      url: '/note'
+      url: '/notebook'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
