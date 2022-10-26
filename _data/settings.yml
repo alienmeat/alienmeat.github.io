@@ -12,10 +12,14 @@ menu_settings:
       url: '/'
     - title: 'Blog'
       url: '/blog/'
+    #添加新的板块#
+    - title: 'NoteBook'
+      url: '/note'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
       url: '/contact'
+
 
 footer_settings:
   logo_image: 
