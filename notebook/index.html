@@ -16,24 +16,24 @@ featured_image: /images/social.jpg
 
 </section>
 
-<section class="blog">
+<section class="notebook">
 
-	<div class="content-wrap blog-wrap">
+	<div class="content-wrap notebook-wrap">
 
 		{% for post in paginator.posts %}
 
-		<article class="blog-post">
+		<article class="notebook-post">
 
-			<a class="blog-post__link" href="{{ post.url }}">
+			<a class="notebook-post__link" href="{{ post.url }}">
 
-				<div class="blog-post__image">
+				<div class="notebook-post__image">
 					<img src="{{ post.featured_image  }}" alt="{{ post.title }}">
 				</div>
 
-				<div class="blog-post__content">
-					<div class="blog-post__info">
-						<h2 class="blog-post__title">{{ post.title }}</h2>
-						<p class="blog-post__subtitle">{{ post.date | date_to_long_string }}</p>
+				<div class="notebook-post__content">
+					<div class="notebook-post__info">
+						<h2 class="notebook-post__title">{{ post.title }}</h2>
+						<p class="notebook-post__subtitle">{{ post.date | date_to_long_string }}</p>
 					</div>
 				</div>
 
