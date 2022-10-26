@@ -39,11 +39,11 @@ defaults:
     values:
       layout: "project"
   - 
-    scope:
-      path: ""
-      type: "notebooks"
-    values:
-      layout: "post"
+    # scope:
+    #   path: ""
+    #   type: "notebooks"
+    # values:
+    #   layout: "post"
 
 markdown: kramdown
 
