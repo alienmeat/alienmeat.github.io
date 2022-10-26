@@ -41,9 +41,9 @@ defaults:
   - 
     scope:
       path: ""
-      type: "posts"
+      type: "notebooks"
     values:
-      layout: "notebook"
+      layout: "post"
 
 markdown: kramdown
 
