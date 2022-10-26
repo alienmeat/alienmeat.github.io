@@ -18,4 +18,3 @@ Timeline:
 
 alienmeat25@gmail.com
 
-<a href="alienmeat25@gmail.com" class="button button--large">Mail me now!</a>
