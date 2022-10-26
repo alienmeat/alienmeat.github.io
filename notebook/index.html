@@ -24,16 +24,16 @@ featured_image: /images/social.jpg
 
 		<article class="notebook-post">
 
-			<a class="notebook-post__link" href="{{ post.url }}">
+			<a class="notebook-post__link" href="{{ notebook.url }}">
 
 				<div class="notebook-post__image">
-					<img src="{{ post.featured_image  }}" alt="{{ post.title }}">
+					<img src="{{ notebook.featured_image  }}" alt="{{ notebook.title }}">
 				</div>
 
 				<div class="notebook-post__content">
 					<div class="notebook-post__info">
-						<h2 class="notebook-post__title">{{ post.title }}</h2>
-						<p class="notebook-post__subtitle">{{ post.date | date_to_long_string }}</p>
+						<h2 class="notebook-post__title">{{ notebook.title }}</h2>
+						<p class="notebook-post__subtitle">{{ notebook.date | date_to_long_string }}</p>
 					</div>
 				</div>
 
