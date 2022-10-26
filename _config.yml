@@ -10,9 +10,6 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
-  # notebooks:
-  #   output: true
-  #   permalink: /notebook/:slug
 
 defaults:
   -
@@ -38,12 +35,6 @@ defaults:
       type: "projects"
     values:
       layout: "project"
-  - 
-    # scope:
-    #   path: ""
-    #   type: "notebooks"
-    # values:
-    #   layout: "post"
 
 markdown: kramdown
 
@@ -60,7 +51,6 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
-
 
 gallery_types:
   carousel: Carousel
