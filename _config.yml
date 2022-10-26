@@ -10,6 +10,9 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  notebooks:
+    output: true
+    permalink: /notebook/:slug
 
 defaults:
   -
